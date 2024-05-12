@@ -1,6 +1,6 @@
-# Mapa de las Políticas Sociales en la Argentina 2023
+![image](https://github.com/datos-Fundar/mapa_politicas_sociales/assets/12114624/496df186-641e-44fd-8b69-2c8749ddc6c7)# Mapa de las Políticas Sociales en la Argentina 2023
 
-En este repositorio se comparten los datos que srugen del trabajo de [Schinpani y Forlino(2024, CIAS - Fundar)]().
+En este repositorio se comparten los datos que surgen del trabajo de [Schinpani y Forlino (2024, CIAS - Fundar)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/).
 
 ![image](https://github.com/TuQmano/mapa_politicas_sociales/assets/12114624/f446d91d-66d1-4641-9a2b-a7ad6d5c6e0d)
 
