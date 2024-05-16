@@ -7,11 +7,13 @@ En este repositorio se comparten los datos que se han utilizado para el **Mapa d
 
 [^1]: [Mapa de las Políticas Sociales en la Argentina 2023 : CIAS-Fundar / Andrés Schipani ; Lara Forlino. - 1a ed - Ciudad Autónoma de Buenos Aires : Fundar , 2024.)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/)
 
-**Índice de archivos**
-- [Cantidad de beneficiarios](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/cantidad_de_beneficiarios.csv)
+## Índice de archivos
+
+- [Libro de códigos](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/libro_de_codigos.pdf)
 - [Diccionario de partidas](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/diccionario_partidas.csv)
 - [Ejecución presupuestaria total anual nominal](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/ejecucion_presupuestaria_total_anual_nominal.csv)
 - [IPC base 2022 mensual](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/ipc_base2022_mensual.csv)
+- [Cantidad de beneficiarios](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/cantidad_de_beneficiarios.csv)
 - [Nivel de beneficios mensual nominal](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/nivel_beneficio_nominal_mensual.csv)
 - [Nivel de beneficios mensual real](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/nivel_beneficio_real_mensual.csv)
 - [Partidas como porcentaje ejecución presupuestaria anual](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/partidas_como_porcentaje_ejecucion_presupuestaria_anual.csv)
