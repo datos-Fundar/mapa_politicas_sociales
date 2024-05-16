@@ -2,7 +2,22 @@
 
 [![Mapa de las Políticas Sociales en la Argentina 2023](https://fund.ar/wp-content/uploads/2024/05/Portada_web_Mapa-CIAS.png)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/)
 
-**A partir del 17/5 se podrá acceder al repositorio de datos utilizados en este informe**. Este contendrá las bases de datos que se han utilizado para generar los análisis presentados en el documento[^1]. Las bases presentan montos reales, nominales y como porcentaje del presupuesto nacional de partidas y programas sociales y cantidad de beneficiarios y nivel de beneficio de los programas. La fuente de datos es el portal del presupuesto abierto del Ministerio de Economía (a través del Portal de Presupuesto Abierto) e INDEC, con elaboración de los autores.
+En este repositorio se comparten los datos que surgen del trabajo de [Schipani y Forlino (2024, CIAS - Fundar)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/). Contiene las bases de datos que se han utilizado para generar los análisis presentados en el documento. Las bases presentan montos reales, nominales y como porcentaje del presupuesto nacional de partidas y programas sociales y cantidad de beneficiarios y nivel de beneficio de los programas. Las fuentes de datos son el portal del presupuesto abierto del Ministerio de Economía (a través del Portal de Presupuesto Abierto), el Ministerio de Desarrollo Social, el Ministerio de Trabajo, la ANSES y la Agencia Nacional de Discapacidad (a través de pedidos de acceso a la información) e INDEC, con elaboración de los autores.
+
+Índice de archivos
+- [Cantidad de beneficiarios](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/cantidad_de_beneficiarios.csv)
+- [Diccionario de partidas](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/diccionario_partidas.csv)
+- [Ejecución presupuestaria total anual nominal](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/ejecucion_presupuestaria_total_anual_nominal.csv)
+- [IPC base 2022 mensual](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/ipc_base2022_mensual.csv)
+- [Nivel de beneficios mensual nominal](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/nivel_beneficio_nominal_mensual.csv)
+- [Nivel de beneficios mensual real](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/nivel_beneficio_real_mensual.csv)
+- [Partidas como porcentaje ejecución presupuestaria anual](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/partidas_como_porcentaje_ejecucion_presupuestaria_anual.csv)
+- [Partidas nominal mensual](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/partidas_nominal_mensual.csv)
+- [Partidas real mensual](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/partidas_real_mensual.csv)
+- [Programas como ejecución presupuestaria anual ](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/programas_como_porcentaje_ejecucion_presupuestaria_anual.csv)
+- [Programas nominal mensual](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/programas_nominal_mensual.csv)
+- [Programas real mensual](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/programas_real_mensual.csv)
+
 
 [^1]: [Mapa de las Políticas Sociales en la Argentina 2023 : CIAS-Fundar / Andrés Schipani ; Lara Forlino. - 1a ed - Ciudad Autónoma de Buenos Aires : Fundar , 2024.)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/)
 
