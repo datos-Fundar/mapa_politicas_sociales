@@ -2,9 +2,12 @@
 
 [![Mapa de las Políticas Sociales en la Argentina 2023](https://fund.ar/wp-content/uploads/2024/05/Portada_web_Mapa-CIAS.png)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/)
 
-En este repositorio se comparten los datos que surgen del trabajo de [Schipani y Forlino (2024, CIAS - Fundar)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/). Contiene las bases de datos que se han utilizado para generar los análisis presentados en el documento. Las bases presentan montos reales, nominales y como porcentaje del presupuesto nacional de partidas y programas sociales y cantidad de beneficiarios y nivel de beneficio de los programas. Las fuentes de datos son el portal del presupuesto abierto del Ministerio de Economía (a través del Portal de Presupuesto Abierto), el Ministerio de Desarrollo Social, el Ministerio de Trabajo, la ANSES y la Agencia Nacional de Discapacidad (a través de pedidos de acceso a la información) e INDEC, con elaboración de los autores.
+En este repositorio se comparten los datos que se han utilizado para el **Mapa de Políticas Sociales 2023** [^1]. Contiene las bases de datos que se han utilizado para generar los análisis presentados en el documento. Las bases presentan montos reales, nominales y como porcentaje del presupuesto nacional de partidas y programas sociales y cantidad de beneficiarios y nivel de beneficio de los programas. Las fuentes de datos son el portal del presupuesto abierto del Ministerio de Economía (a través del Portal de Presupuesto Abierto), el Ministerio de Desarrollo Social, el Ministerio de Trabajo, la ANSES y la Agencia Nacional de Discapacidad (a través de pedidos de acceso a la información) e INDEC, con elaboración de los autores.
 
-Índice de archivos
+
+[^1]: [Mapa de las Políticas Sociales en la Argentina 2023 : CIAS-Fundar / Andrés Schipani ; Lara Forlino. - 1a ed - Ciudad Autónoma de Buenos Aires : Fundar , 2024.)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/)
+
+**Índice de archivos**
 - [Cantidad de beneficiarios](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/cantidad_de_beneficiarios.csv)
 - [Diccionario de partidas](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/diccionario_partidas.csv)
 - [Ejecución presupuestaria total anual nominal](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/ejecucion_presupuestaria_total_anual_nominal.csv)
