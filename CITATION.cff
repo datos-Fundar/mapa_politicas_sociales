@@ -1,11 +1,12 @@
 cff-version: 1.1.0
 message: "Cita sugerida"
 authors:
-- family-names: Schipani
-  given-names: Andrés
-- family-names: Forlino
-  given-names: Lara
-title:datos-Fundar/mapa_politicas_sociales: Mapa de las Políticas Sociales en la Argentina 2023
+- family-names: "Schipani"
+  given-names: "Andrés"
+- family-names: "Forlino"
+  given-names: "Lara"
+title: "Mapa de las Políticas Sociales en la Argentina 2023"
 version: v1.0.0
 date-released: 2024-05-16
+url: https://github.com/datos-Fundar/mapa_politicas_sociales/
 
