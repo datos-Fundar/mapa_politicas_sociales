@@ -1,14 +1,13 @@
 # Mapa de las Políticas Sociales en la Argentina 2023
 
 [![Mapa de las Políticas Sociales en la Argentina 2023](https://fund.ar/wp-content/uploads/2024/05/Portada_web_Mapa-CIAS.png)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11206168.svg)](https://doi.org/10.5281/zenodo.11206168) 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 En este repositorio se comparten los datos que se han utilizado para el **Mapa de Políticas Sociales 2023** [^1]. Contiene las bases de datos que se han utilizado para generar los análisis presentados en el documento. Las bases presentan montos reales, nominales y como porcentaje del presupuesto nacional de partidas y programas sociales y cantidad de beneficiarios y nivel de beneficio de los programas. Las fuentes de datos son el portal del presupuesto abierto del Ministerio de Economía (a través del Portal de Presupuesto Abierto), el Ministerio de Desarrollo Social, el Ministerio de Trabajo, la ANSES y la Agencia Nacional de Discapacidad (a través de pedidos de acceso a la información) e INDEC, con elaboración de los autores.
 
 
 [^1]: [Mapa de las Políticas Sociales en la Argentina 2023 : CIAS-Fundar / Andrés Schipani ; Lara Forlino. - 1a ed - Ciudad Autónoma de Buenos Aires : Fundar , 2024.)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/)
-
-
-
 
 
 **Cita Sugerida:**
@@ -29,7 +28,6 @@ Bibtex:
 
 **Producción del Repositorio de Datos**: Alejandro Avenburg y Juan Gabriel Juara 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11206168.svg)](https://doi.org/10.5281/zenodo.11206168) 
 
 ## Índice de archivos
 
