@@ -7,6 +7,11 @@
 En este repositorio se comparten los datos que se han utilizado para el **Mapa de Políticas Sociales 2025** [^1]. Contiene las bases de datos que se han utilizado para generar los análisis presentados en el documento. Las bases presentan montos reales, nominales y como porcentaje del presupuesto nacional de partidas y programas sociales y cantidad de beneficiarios y nivel de beneficio de los programas. Las fuentes de datos son el portal del presupuesto abierto del Ministerio de Economía (a través del Portal de Presupuesto Abierto), el Ministerio de Desarrollo Social, el Ministerio de Trabajo, la ANSES y la Agencia Nacional de Discapacidad (a través de pedidos de acceso a la información) e INDEC, con elaboración de los autores.
 
 
+
+[^1]: [Mapa de las Políticas Sociales en la Argentina 2025 : CIAS-Fundar / Andrés Schipani ; Lara Forlino ; María Victoria Anuati. - 1a ed - Ciudad Autónoma de Buenos Aires : Fundar , 2025.)](https://fund.ar/publicacion/mapa-de-las-politicas-sociales-2025-continuidades-y-rupturas-durante-la-presidencia-de-javier-milei/)
+
+
+
 **Cita Sugerida:**
 ```
 
@@ -43,9 +48,6 @@ Bibtex:
 - [Programas nominal mensual](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/programas_nominal_mensual.csv)
 - [Programas real mensual](https://github.com/datos-Fundar/mapa_politicas_sociales/blob/main/programas_real_mensual.csv)
 
-
-
-[^1]: [Mapa de las Políticas Sociales en la Argentina 2025 : CIAS-Fundar / Andrés Schipani ; Lara Forlino ; María Victoria Anuati. - 1a ed - Ciudad Autónoma de Buenos Aires : Fundar , 2025.)](https://fund.ar/publicacion/mapa-de-las-politicas-sociales-2025-continuidades-y-rupturas-durante-la-presidencia-de-javier-milei/)
 
 
 
