@@ -1,4 +1,4 @@
-# Mapa de las Políticas Sociales en la Argentina 2023
+# Mapa de las Políticas Sociales en la Argentina 2025
 
 [![Mapa de las Políticas Sociales en la Argentina 2025](https://fund.ar/wp-content/uploads/2021/12/MapaPoliticasSociales.jpg)](https://fund.ar/publicacion/mapa-de-las-politicas-sociales-2025-continuidades-y-rupturas-durante-la-presidencia-de-javier-milei/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11206168.svg)](https://doi.org/10.5281/zenodo.11206168) 
