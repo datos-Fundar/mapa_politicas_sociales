@@ -18,7 +18,7 @@ Schipani, A. y Forlino, L. (2026). Base de datos de Mapa de las Políticas Socia
 
 Bibtex:
 
-@report{schipani2025base,
+@report{schipani2026base,
   author    = {Schipani, A. y Forlino},
   title     = {Base de datos de Mapa de las Políticas Sociales en la Argentina 2026},
   year      = {2026},
