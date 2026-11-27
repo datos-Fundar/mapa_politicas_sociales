@@ -8,7 +8,7 @@ En este repositorio se comparten los datos que se han utilizado para el **Mapa d
 
 
 
-[^1]: [Mapa de las Políticas Sociales en la Argentina 2026 : CIAS-Fundar / Andrés Schipani ; Lara Forlino - Ciudad Autónoma de Buenos Aires : Fundar , 2026.)]([https://fund.ar/publicacion/mapa-de-las-politicas-sociales-en-la-argentina-2026-politica-social-a-dos-velocidades-inversion-estable-trayectorias-divergentes/])
+[^1]: [Mapa de las Políticas Sociales en la Argentina 2026 : CIAS-Fundar / Andrés Schipani ; Lara Forlino - Ciudad Autónoma de Buenos Aires : Fundar , 2026.)][https://fund.ar/publicacion/mapa-de-las-politicas-sociales-en-la-argentina-2026-politica-social-a-dos-velocidades-inversion-estable-trayectorias-divergentes/](https://fund.ar/publicacion/mapa-de-las-politicas-sociales-en-la-argentina-2026-politica-social-a-dos-velocidades-inversion-estable-trayectorias-divergentes/)
 
 
 **Cita Sugerida:**
